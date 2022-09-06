@@ -6,3 +6,5 @@ System.out.println("welcome to github");}
 }
 
 ok good , code push sucessfully.
+
+learn pull and practice git cmds
