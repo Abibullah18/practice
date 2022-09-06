@@ -4,3 +4,5 @@ public static void main(String args[])
 {
 System.out.println("welcome to github");}
 }
+
+ok good , code push sucessfully.
